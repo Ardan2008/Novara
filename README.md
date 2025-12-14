@@ -27,22 +27,8 @@ https://ardan2008.github.io/Novara/
 
 ---
 
-## Project Structure
-
-Novara/
-├── index.html
-├── style.css
-├── app.js
-├── images/
-└── README.md
-
----
-
 ## Notes
 This project was created as:
 - Front-end training
 - Website statistics
 - Portfolio project
-
-Feel free to explore and improve it ✨
-
